@@ -1,0 +1,69 @@
+
+<content>
+    <data>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/maven-metadata.xml.md5</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/maven-metadata.xml.md5</relativePath>
+            <text>maven-metadata.xml.md5</text>
+            <leaf>true</leaf>
+            <lastModified>2017-05-15 09:41:26.0 UTC</lastModified>
+            <sizeOnDisk>32</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/17.04.1/</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/17.04.1/</relativePath>
+            <text>17.04.1</text>
+            <leaf>false</leaf>
+            <lastModified>2017-04-26 12:46:55.0 UTC</lastModified>
+            <sizeOnDisk>-1</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/17.05.2/</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/17.05.2/</relativePath>
+            <text>17.05.2</text>
+            <leaf>false</leaf>
+            <lastModified>2017-05-05 13:49:46.0 UTC</lastModified>
+            <sizeOnDisk>-1</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/17.05.1/</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/17.05.1/</relativePath>
+            <text>17.05.1</text>
+            <leaf>false</leaf>
+            <lastModified>2017-04-26 08:49:44.0 UTC</lastModified>
+            <sizeOnDisk>-1</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/17.05.3/</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/17.05.3/</relativePath>
+            <text>17.05.3</text>
+            <leaf>false</leaf>
+            <lastModified>2017-05-10 09:07:09.0 UTC</lastModified>
+            <sizeOnDisk>-1</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/maven-metadata.xml</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/maven-metadata.xml</relativePath>
+            <text>maven-metadata.xml</text>
+            <leaf>true</leaf>
+            <lastModified>2017-05-15 09:41:26.0 UTC</lastModified>
+            <sizeOnDisk>449</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/maven-metadata.xml.sha1</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/maven-metadata.xml.sha1</relativePath>
+            <text>maven-metadata.xml.sha1</text>
+            <leaf>true</leaf>
+            <lastModified>2017-05-15 09:41:26.0 UTC</lastModified>
+            <sizeOnDisk>40</sizeOnDisk>
+        </content-item>
+        <content-item>
+            <resourceURI>https://omar.mebarki.com/nexus-om/service/local/repositories/omar-prj-maven2-hosted-releases/content/omar/mebarki/prj/module/poms/artif/17.04.2/</resourceURI>
+            <relativePath>/omar/mebarki/prj/module/poms/artif/17.04.2/</relativePath>
+            <text>17.04.2</text>
+            <leaf>false</leaf>
+            <lastModified>2017-05-15 09:41:25.0 UTC</lastModified>
+            <sizeOnDisk>-1</sizeOnDisk>
+        </content-item>
+    </data>
+</content>
